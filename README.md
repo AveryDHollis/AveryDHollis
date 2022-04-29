@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AveryDHollis
-- 👀 I’m interested in ... Tech, Art
+- 👀 I’m interested in ... Technology & Art
 - 🌱 I’m currently learning ... Physics and Calculus
 - 📫 How to reach me ... Personal or College emails
 
