@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AveryDHollis
 - 👀 I’m interested in ... Technology & Art
-- 🌱 I’m currently learning ... Physics and Calculus
+- 🌱 I’m currently learning ... Organization & Switching Theory, ARM, Java, Solar2D Lua, Unity C#
 - 📫 How to reach me ... Personal or College emails
 
 <!---
